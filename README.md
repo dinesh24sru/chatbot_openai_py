@@ -1,11 +1,11 @@
 # chatbot_openai_py
 
 # Prerequesites
-1. Install git
-2. First clone this repo using git clone command
-3. Download and install Visual studio code
-4. Install Node.js lastest LTS version preferably v20.8.0
-5. Install Python preferably v3.12.2
+1. Install git. [Download Link here](https://git-scm.com/downloads)
+2. First clone this repo using git clone command `git clone https://github.com/dinesh24sru/chatbot_openai_py.git`
+3. Download and install Visual studio code [VS Code download here](https://code.visualstudio.com/download)
+4. Install Node.js lastest LTS version preferably [v20.8.0 download here](https://nodejs.org/en/download/current)
+5. Install Python preferably [v3.12.2 download here](https://www.python.org/downloads/)
 
 # Steps to run backend
 1. Open VS code
@@ -14,7 +14,7 @@
 `cd/chat-py-backend`
 4. Click on main.py file in the explorer
 5. Press `F5`
-6. Select Python Debygger
+6. Select Python Debugger
 7. After clicking that, you will see list of options select FastAPI
 8. Application will start running
 
